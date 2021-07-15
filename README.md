@@ -1,5 +1,5 @@
-# morse-code-flashlight
-Android app which flashes your message in morse code with the phone's built-in flashlight.
+# morse-code-flashlight 🔦
+Android app which flashes your message in morse code with the phone's built-in flashlight. 🔦
 
 ## Installation
 
